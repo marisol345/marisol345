@@ -1,5 +1,5 @@
 
-![Nombre](nombre.png)
+![Nombre](nombre.png 'foto')
 
 ### ***Hola 👋, gracias por visitar mi Github :purple_heart:***
 ---
