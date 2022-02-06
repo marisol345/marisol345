@@ -1,10 +1,10 @@
-<p>
+<p align="center">
 <img align="left" src="video1.gif" height="200" width="220"/>
 
 <img align="left" src="nombre.png" height="200" width="460"/>
 </p>
-<br/>
-<br/>
+
+<p>
 
 ### ***Hi 👋, thanks for visiting my Github  :purple_heart:***
 
@@ -47,3 +47,4 @@ I am studying :woman_student: Electronics and Automation Engineering :robot:, I 
 * [Linkedin](https://www.linkedin.com/in/cynthia-marisol-medina/)
 
 * [Email](mailto:marysol345@hotmail.com)
+</p>
