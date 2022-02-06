@@ -1,7 +1,7 @@
 
-<img  align="left" src="video1.gif" height="200" width="220"/>
+<img  float="left" align="left" src="video1.gif" height="200" width="220"/>
 
-<img align="right" src="../imagenes/nombre.png" height="200" width="460"/>
+<img float="left" align="right" src="../imagenes/nombre.png" height="200" width="460"/>
 
 <br />
 
