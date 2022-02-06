@@ -1,11 +1,8 @@
-<div className="contenedor">
-    <div className="item">
-        <img align="left" src="video1.gif" height="200" width="220"/>
-    </div>
-    <div className="item">
-        <img align="right" src="nombre.png" height="200" width="460"/>
-    </div>
-</div>
+
+<img align="left" src="video1.gif" height="200" width="220"/>
+
+<img align="left" src="nombre.png" height="200" width="460"/>
+
 <br />
 
 ### ***Hi 👋, thanks for visiting my Github  :purple_heart:***
