@@ -1,8 +1,11 @@
 <img align="left" src="video1.gif" height="200"/>
 
-![Nombre](/JRTEC/Perfil/imagenes/nombre.png 'foto')
+<img align="right" src="../imagenes/nombre.png" height="200" width="380"/>
 
-### ***Hola 👋, gracias por visitar mi Github :purple_heart:***
+
+
+
+### ***Hi 👋, gracias por visitar mi Github :purple_heart:***
 ---
 
 Soy Marisol Medina, pero me pueden decir Sol :sunny:, tengo 24 años, soy estudiante :woman_student: de Ingeniería en Electrónica y Automatización :robot:, estoy interesada en aprender desarrollo de software :woman_technologist:.
