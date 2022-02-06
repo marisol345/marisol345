@@ -1,5 +1,6 @@
+<video src="video.mp4" type="mp4" height="230"></video>
 
-![Nombre](nombre.png 'foto')
+![Nombre](/JRTEC/Perfil/imagenes/nombre.png 'foto')
 
 ### ***Hola 👋, gracias por visitar mi Github :purple_heart:***
 ---
