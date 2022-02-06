@@ -1,4 +1,4 @@
-<video autoplay src="video1.mp4" type="video/mp4" height="230"></video>
+<img align="left" src="video1.gif" height="200"/>
 
 ![Nombre](/JRTEC/Perfil/imagenes/nombre.png 'foto')
 
