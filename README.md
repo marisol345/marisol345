@@ -1,9 +1,10 @@
-
+<p>
 <img align="left" src="video1.gif" height="200" width="220"/>
 
 <img align="left" src="nombre.png" height="200" width="460"/>
-
-<br />
+</p>
+<br/>
+<br/>
 
 ### ***Hi 👋, thanks for visiting my Github  :purple_heart:***
 
