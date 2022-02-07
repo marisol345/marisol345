@@ -9,16 +9,11 @@
 
 
 ## ***Hi 👋, thanks for visiting my Github  :purple_heart:***
-
 ---
-
 I am studying :woman_student: Electronics and Automation Engineering :robot:, I am interested in learning software development :woman_technologist:.
 
-
 ## :computer: **Technologies**
-
 ---
-
 [<img align="left" alt="bootstrap" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>](https://getbootstrap.com/docs/5.1/getting-started/introduction/ "bootstrap")
 
 [<img align="left" alt="CSS" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>](https://edu.gcfglobal.org/es/creacion-de-sitios-web/css-cascading-style-sheets/1/ "CSS")
@@ -41,9 +36,7 @@ I am studying :woman_student: Electronics and Automation Engineering :robot:, I 
 
 [<img align="left" alt="React" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />](https://es.reactjs.org "React")
 
-
 ## :telephone_receiver: **My Contact**
-
 ---
 [<img align="left" alt="Linkedin" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644193671~hmac=18d730effaefc97dd5432f8228f49792" />](https://www.linkedin.com/in/cynthia-marisol-medina/ "Linkedin")
 
