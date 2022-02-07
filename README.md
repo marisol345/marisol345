@@ -4,11 +4,12 @@
 <img align="left" src="nombre.png" height="200" width="460"/>
 </div>
 
-<p>
+<br/>
+
 ![GitHub watchers](https://img.shields.io:/github/watchers/marisol345/marisol345?style=social)
 
 ![GitHub commit activity](https://img.shields.io:/github/commit-activity/w/marisol345/marisol345?color=purple)
-</p>
+
 
 <br/>
 
