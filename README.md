@@ -4,8 +4,11 @@
 <img align="left" src="nombre.png" height="200" width="460"/>
 </div>
 
+<p>
+![GitHub watchers](https://img.shields.io:/github/watchers/marisol345/marisol345?style=social)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=marisol345.marisol345)
+![GitHub commit activity](https://img.shields.io:/github/commit-activity/w/marisol345/marisol345?color=purple)
+</p>
 
 <br/>
 
@@ -16,7 +19,7 @@
 
 I am studying :woman_student: Electronics and Automation Engineering :robot:, I am interested in learning software development :woman_technologist:.
 
-### **My Stack**
+### :telephone_receiver: **Technologies**
 
 ---
 
@@ -44,11 +47,11 @@ I am studying :woman_student: Electronics and Automation Engineering :robot:, I 
 
 <br/>
 
-### **Contact**
+### :telephone_receiver: **My Contact**
 
 ---
+[<img align="left" alt="Linkedin" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644193671~hmac=18d730effaefc97dd5432f8228f49792" />](https://www.linkedin.com/in/cynthia-marisol-medina/ "Linkedin")
 
-* [Linkedin](https://www.linkedin.com/in/cynthia-marisol-medina/)
+[<img align="left" alt="Correo" width="30" src="https://as1.ftcdn.net/v2/jpg/02/73/74/34/1000_F_273743445_8NsO173YKt3qKssAjPPGDLj4TcUlBsNA.jpg" />](mailto:marysol345@hotmail.com "marysol345@hotmail.com")
 
-* [Email](mailto:marysol345@hotmail.com)
 </div>
