@@ -3,16 +3,17 @@
     <img align="left" src="nombre.png" height="200" width="520"/>
 </div>
 
-![GitHub watchers](https://img.shields.io:/github/watchers/marisol345/marisol345?style=social)
+<br/>
 
+![GitHub watchers](https://img.shields.io:/github/watchers/marisol345/marisol345?style=social)
 ![GitHub commit activity](https://img.shields.io:/github/commit-activity/w/marisol345/marisol345?color=purple)
 
 
-## ***Hi 👋, thanks for visiting my Github  :purple_heart:***
+# ***Hi 👋, thanks for visiting my Github  :purple_heart:***
 ---
 I am studying :woman_student: Electronics and Automation Engineering :robot:, I am interested in learning software development :woman_technologist:.
 
-## :computer: **Technologies**
+### :computer: **Technologies**
 ---
 [<img align="left" alt="bootstrap" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>](https://getbootstrap.com/docs/5.1/getting-started/introduction/ "bootstrap")
 
@@ -36,7 +37,9 @@ I am studying :woman_student: Electronics and Automation Engineering :robot:, I 
 
 [<img align="left" alt="React" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />](https://es.reactjs.org "React")
 
-## :telephone_receiver: **My Contact**
+<br/>
+
+### :telephone_receiver: **My Contact**
 ---
 [<img align="left" alt="Linkedin" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644193671~hmac=18d730effaefc97dd5432f8228f49792" />](https://www.linkedin.com/in/cynthia-marisol-medina/ "Linkedin")
 
