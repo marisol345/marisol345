@@ -1,9 +1,8 @@
-<div>
+<div justifyContent="center" float="left">
     <img align="left" src="video1.gif" height="200" width="220"/>
     <img align="left" src="nombre.png" height="200" width="460"/>
 </div>
 
-<br/>
 
 ![GitHub watchers](https://img.shields.io:/github/watchers/marisol345/marisol345?style=social)
 ![GitHub commit activity](https://img.shields.io:/github/commit-activity/w/marisol345/marisol345?color=purple)
