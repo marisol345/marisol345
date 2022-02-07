@@ -1,6 +1,6 @@
 <div justifyContent="center" float="left">
     <img align="left" src="video1.gif" height="200" width="220"/>
-    <img align="left" src="nombre.png" height="200" width="460"/>
+    <img align="left" src="nombre.png" height="200" width="520"/>
 </div>
 
 
