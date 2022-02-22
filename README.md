@@ -6,7 +6,6 @@
 &nbsp;
 
 ![GitHub watchers](https://img.shields.io:/github/watchers/marisol345/marisol345?style=social)
-![GitHub commit activity](https://img.shields.io:/github/commit-activity/w/marisol345/marisol345?color=purple)
 
 
 # ***Hi 👋, thanks for visiting my Github  :purple_heart:***
